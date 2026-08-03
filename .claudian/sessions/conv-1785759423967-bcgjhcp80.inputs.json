@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785759423967-bcgjhcp80",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785759424065-a3wh4df",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785759423962-zjzspg9",
+      "timestamp": 1785759423962,
+      "rawDisplayText": "Delete this note and make sure all wikilinks are updated accordingly.",
+      "canonicalText": "Delete this note and make sure all wikilinks are updated accordingly.",
+      "context": {
+        "currentNote": {
+          "path": "14 The Synthesis/The Magnum Corpus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "4705dbc7a0e3fe1a5101e6068c9208ceac51732b469d43ba5a24e6a31694e5b1",
+      "providerUserMessageId": "6406f467-e2a9-4558-a6c9-7ee562b642af",
+      "providerAssistantMessageId": "47c308a6-3f1c-4d6f-99b2-e7bf17b68a8f"
+    }
+  ]
+}

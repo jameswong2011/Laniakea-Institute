@@ -150,20 +150,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "14 The Synthesis/The Magnum Corpus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Magnum Corpus"
+            }
+          },
+          {
+            "id": "c156b1d7e603ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +184,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "51aadcfdd1d65031",
+  "active": "c156b1d7e603ea9b",
   "lastOpenFiles": []
 }

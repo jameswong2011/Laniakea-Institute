@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785759423967-bcgjhcp80",
+  "providerId": "claude",
+  "title": "Delete note and update wikilinks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785759423981,
+  "updatedAt": 1785759451912,
+  "lastResponseAt": 1785759451912,
+  "sessionId": "9792842d-1b9a-4f1b-8773-b0f680611963",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9792842d-1b9a-4f1b-8773-b0f680611963"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 353,
+    "cacheReadInputTokens": 23954,
+    "contextWindow": 200000,
+    "contextTokens": 24315,
+    "percentage": 12
+  }
+}
