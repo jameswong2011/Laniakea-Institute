@@ -9,17 +9,17 @@ tags:
 
 **Memetic Birthing** — the disciplined generation of new concepts, described through three procedures for producing ideas and three tests for whether an idea can host life.
 
-New concepts are "birthed through a mental womb via organic truth-seeking." Three complementary procedures:
+New ideas can be made on purpose. A meme — a unit of culture that copies from mind to mind — is birthed through a kind of mental womb, by honest truth-seeking rather than luck. Three procedures do the work.
 
-1. **Extrapolation to the conceptual terminus.** Follow a relation to its [[The Conceptual Terminus|final implication]], using *reductio ad absurdum* to test coherence at the limit; this exposes hidden assumptions and stops a fashionable midpoint disguising an unstable foundation.
-2. **Reverse search through evolutionary memory.** Compare the proposal with cultures, organisms, institutions, and spiritual systems that reached stability. The past is not an authority to obey but "a database of experiments already paid for in human time," so a repeatedly collapsing pattern carries a heavier burden of proof.
-3. **Divine seed input.** When analysis maps the known relations but cannot generate a fertile alternative, intuition, dream, muse, or Akashic query may introduce a variation unreachable by linear search, which then re-enters logical, historical, and experiential testing: "revelation supplies novelty; discipline determines whether the novelty can host life" — the channel of [[Dreams as Creator-Space|dream-work]] and [[Trip Reports and Revelation|revelatory testimony]].
+1. **Extrapolation to the conceptual terminus.** Follow a relationship to its [[The Conceptual Terminus|final implication]], pushing until it holds or breaks. This is *reductio ad absurdum* — testing an idea by taking it to its limit. It exposes hidden assumptions and stops a comfortable midpoint from hiding an unstable foundation.
+2. **Reverse search through evolutionary memory.** Compare the proposal against cultures, organisms, institutions, and spiritual systems that reached stability. The past is not an authority to obey but a database of experiments already paid for in human time. A pattern that has collapsed again and again must clear a higher bar of proof.
+3. **Divine seed input.** Sometimes analysis maps every known relation yet cannot produce a fertile alternative. Then intuition, a dream, a muse, or an Akashic query — a felt reach into a shared record of the past — may drop in a variation linear search could never find. It is not trusted on arrival; it re-enters logical, historical, and experiential testing. Revelation supplies the novelty; discipline decides whether it can host life. This is the channel of [[Dreams as Creator-Space|dream-work]] and [[Trip Reports and Revelation|revelatory testimony]].
 
-Every new meme is then assessed along at least three axes: whether it raises total positive qualia rather than merely relocating pain; whether it generates real novelty rather than a cosmetic permutation; and whether it preserves the minimum order needed for continued collaboration.
+Every new meme is then weighed on three axes. Does it raise total positive [[Qualia|felt experience]] rather than just move pain elsewhere? Does it make real novelty rather than a cosmetic reshuffle? Does it keep the minimum order people need to keep collaborating?
 
-The complete art is decomposition and reconstruction: dissect a memeplex into its elementary values, causal claims, emotional rewards, and identity functions, then recombine them into several stable configurations. "A concept has been understood when it can be rebuilt differently without losing the truth that made it useful." This is the constructive counterpart to [[Art as Selective Recombination|artistic recombination]] and the engine behind [[The Glue Species|the glue species]].
+The full art is decomposition and reconstruction. Take a memeplex — a bundle of ideas that travel together, like a whole ideology or religion — and break it into its elementary values, causal claims, emotional rewards, and identity functions. Then rebuild those parts into several stable configurations. A concept is understood only when it can be rebuilt differently without losing the truth that made it useful. Think of a mechanic who has not learned an engine until they can reassemble it in a new layout that still runs. This is the constructive twin of [[Art as Selective Recombination|artistic recombination]] and the engine behind [[The Glue Species|the glue species]].
 
-The birth is finally interpersonal: most public argument halts at counterargument, whereas synthesis requires both sides to expose what would change them and design a larger frame — a [[Dialectic|dialectical]] capacity whose removal from schooling "amputates the function for which a memetic species is best adapted."
+The birth is finally interpersonal. Most public argument stops at counterargument, each side defending its wall. Synthesis asks more: both sides state what would change their minds, then design a larger frame that holds the survivors. This is a [[Dialectic|dialectical]] skill, and stripping it from schooling amputates the very function a memetic species is built for.
 
 ## See also
 
@@ -28,6 +28,7 @@ The birth is finally interpersonal: most public argument halts at counterargumen
 - [[Dialectic]]
 - [[Conceptual Ascension]]
 - [[Humour as Esoteric Technology]]
+- [[Memes as Ontological Primitives]]
 
 ## Related Ideas
 

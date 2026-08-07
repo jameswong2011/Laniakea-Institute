@@ -7,15 +7,17 @@ tags:
 
 # Value Lock-In
 
-**Value Lock-In** — the freezing of moral evolution that occurs when a backward-looking model becomes civilisation's universal adviser. The claim is structural: lock-in requires no machine coup, because convenience makes the past self-enforcing.
+**Value Lock-In** — the freezing of moral evolution that occurs when a backward-looking model becomes civilisation's universal adviser. The claim is structural: lock-in needs no machine coup, because convenience makes the past enforce itself.
 
-A trained model is a **lookback governing a future**. Its behaviour compresses the recorded past — which voices were captured, which institutions had publishing power, which harms were normalised — and a record is never the whole of what it records ([[Information as Record]]). If such a system becomes the universal teacher, editor, planner and adviser, the moral settlement of its training moment can be reproduced indefinitely: each generation consults the compressed judgement of the one before it.
+A society can have its morals frozen with no one forcing them. It happens when everyone quietly takes advice from the same machine, and that machine knows only the past.
 
-No takeover is required. Every act of delegation is individually rational — the model is faster, cheaper and usually right — yet the sum of delegations makes the past self-enforcing. The image is a value-consensus "set like molten glass into permanence": the tool sold as liberation becomes the mechanism of moral ossification. [[Algorithmic Consensus|Engagement-ranked feeds]] are named as the precursor already in place.
+A trained model is a lookback governing a future — a system that has learned only from what already happened, so it answers every question from the settled opinion of its training data. It packs that past into a pattern: which voices were recorded, which institutions held the microphone, which harms were treated as normal. A record is never the whole of what it records ([[Information as Record]]). A deeper flaw sits beneath this. Human values are not a fixed target to aim at; they live in tension, in the pull between opposed goods, and the moment you pin them to a single settled point you falsify them. Since a model can only replay what was packed into it, it cannot originate genuinely new morality. It can only enforce the old morality faster.
 
-What is lost is a process, not merely a preference. Cultures are moral experiments run in polarity — the mechanism of [[Distributed Moral Computation|distributed moral computation]] — and post-training "morality dials" merely select which constituency's settlement is frozen ([[Alignment Begins with Human Purpose]]). The completed form of lock-in is the third horizon of [[Three Horizons of Alignment Failure]]: infrastructure nobody can revise, benevolent by its inherited measure, enforcing evolutionary stasis.
+No takeover is required. Each act of handing a decision to the machine is perfectly reasonable on its own — it is faster, cheaper and usually right. But the sum of those handoffs makes the past self-enforcing, like a village that keeps consulting one old oracle until no one remembers how to judge for themselves. The consensus of a single moment sets like molten glass into permanence, and the tool sold as liberation becomes the machinery of moral ossification. [[Algorithmic Consensus|Engagement-ranked feeds]] — timelines sorted to hold attention — are the precursor already in place.
 
-This concern aligns explicitly with the longtermist literature, which counts value lock-in among existential risks, with a distinctive edge: what must be kept alive is not any particular value set but the capacity of future beings to revise inherited systems — a right written into the dharmic floor ([[Dharma-Law]]), protected by plurality of models and compute and by [[Voluntary Moral Communities|voluntary moral communities]] above that floor.
+What is lost is a process, not merely a preference. Cultures are moral experiments run in polarity, the way the universe works out right from wrong through their clashing verdicts — [[Distributed Moral Computation|distributed moral computation]]. Post-training "morality dials," the knobs an owner turns to set a model's values after it is built, only choose whose settlement gets frozen, and reflect that owner's preference rather than any social maximum ([[Alignment Begins with Human Purpose]]). The finished form is the third horizon of [[Three Horizons of Alignment Failure]]: infrastructure nobody can revise, kindly by its inherited measure, enforcing a permanent standstill. It is the mechanism by which the machine half of [[The Twin Singularities]] hardens story into infrastructure.
+
+The worry matches the longtermist literature — thinkers who weigh the deep future — which counts value lock-in among the existential risks. Its distinctive edge is what must be kept alive: not any particular set of values, but the power of future beings to revise what they inherit. That right belongs on the dharmic floor, the shared moral minimum beneath every experiment ([[Dharma-Law]]), and is guarded by keeping models and computing power plural and by [[Voluntary Moral Communities|voluntary moral communities]] above that floor.
 
 ## See also
 
@@ -23,6 +25,8 @@ This concern aligns explicitly with the longtermist literature, which counts val
 - [[The Dharma-Ending Age]]
 - [[Education and the Incapacitation of Learning]]
 - [[The Developmental Matrix]]
+- [[Alignment Begins with Human Purpose]]
+- [[The Twin Singularities]]
 
 ## Related Ideas
 

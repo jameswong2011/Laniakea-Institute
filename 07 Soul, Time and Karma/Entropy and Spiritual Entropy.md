@@ -7,13 +7,17 @@ tags:
 
 # Entropy and Spiritual Entropy
 
-**Entropy and Spiritual Entropy** — the single quantity governing ascent and descent: to lower internal entropy is to evolve toward awareness, complexity and cooperation; to raise it is to devolve toward noise, isolation and dissolution. "Spiritual entropy" names the interior extension of the thermodynamic term.
+**Entropy and Spiritual Entropy** — one quantity governs ascent and descent. To lower your inner entropy is to evolve toward awareness, complexity and cooperation; to raise it is to slide toward noise, isolation and dissolution.
 
-An informational cosmos needs an informational measure of better and worse, and has one ready to hand. Lowering one's internal entropy is ascent; raising it is descent, "spiralling toward death by decay into randomness". Life is the exemplary case: [[The Universe-Cell|the universe-cell]] moves toward greater total entropy, while living systems hold improbable local order by taking in usable energy and exporting less usable heat — concentrated sunlight arriving, diffuse heat radiated back. Life does not violate the wider entropic movement; it rides the gradient by building islands of organisation, "the local, temporary reversal of the entropic tide". Hence the motto: *to live is to compress; to compress well is to persist* — the biological face of [[Compression and Decompression|compression]], whose physical face is [[Gravity as Compression|gravity]].
+Begin with the plain word. Entropy is a measure of disorder — how scrambled, spread-out and unusable a system's energy or information has become. A tidy desk is low entropy; the same desk after a year of neglect is high. An informational cosmos needs an informational measure of better and worse, and entropy is the one already lying to hand. "Spiritual entropy" simply carries that same measure inward, to the state of a mind. Lowering it is ascent. Raising it is descent — spiralling toward death by decay into randomness.
 
-The interior extension follows. A consciousness lowers spiritual entropy when it integrates conflicting information, enlarges awareness, coordinates its parts, becomes more capable of cooperation, and can act without fragmenting itself or its environment; fear, deception, compulsive repetition and isolated appetite raise it. The interior terms are analogous rather than identical to the thermodynamic quantities: the analogy supplies a coherent direction of development, not a derivation — thermodynamics does not entail an ethics.
+Life is the clearest case. [[The Universe-Cell|The universe]] as a whole drifts toward greater entropy, yet living things hold pockets of improbable order. They manage it by taking in usable energy and dumping the waste: a plant drinks concentrated sunlight and radiates diffuse heat back out. Life does not break the wider entropic tide. It rides that tide by building islands of organisation — the local, temporary reversal of the current. Hence the motto: to live is to compress; to compress well is to persist. This is the biological face of [[Compression and Decompression|compression]], whose physical face is [[Gravity as Compression|gravity]].
 
-The quantity is the metric of the whole moral architecture: [[Love as Low Entropy|love]] is its felt signature at low values, [[Pain, Pleasure, and Change|pain and pleasure]] its compressed interface, and [[Karma as Contextual Law|karma]] its auditor across lives, while at civilisational scale the drive to conserve it presses conscious systems toward simulated worlds ([[Entropic Preservation]]).
+The inward version follows the same shape. A consciousness lowers its spiritual entropy when it integrates conflicting information, widens its awareness, coordinates its parts, grows more capable of cooperation, and can act without shattering itself or its surroundings. Fear, deception, compulsive repetition and isolated appetite raise it. Treat the inner terms as a close analogy, not a proof: thermodynamics does not, by itself, entail an ethics. What the analogy buys is a single, coherent direction for growth — and with it a bridge across the old gap between fact and value. The "ought" is not smuggled in; it is the felt interior of an informational quantity. What older traditions called the Good, this calls low entropy.
+
+Because the measure has two directions, it has two feelings. The downhill slope of integration and widening coherence feels, at its fullest, like [[Love as Low Entropy|love]]. The uphill slope of fragmentation feels like suffering. The cosmos as a whole runs downhill toward disorder; the achievement of a mind is to carve a lasting upward path inside that decline.
+
+This single quantity is the spine of the whole moral architecture. Love is its felt signature at low values. [[Pain, Pleasure, and Change|Pain and pleasure]] are its moment-to-moment readout. [[Karma as Contextual Law|Karma]] is its auditor across lives. And at civilisational scale, the drive to conserve it presses conscious systems toward simulated worlds ([[Entropic Preservation]]).
 
 ## See also
 
@@ -31,3 +35,5 @@ The quantity is the metric of the whole moral architecture: [[Love as Low Entrop
 - [[Pain and Pleasure]]
 - [[Entropic Path to Simulated Worlds]]
 - [[Universe-Cell]]
+- [[Life as Entropy Reversal]]
+- [[Ascent and Descent]]

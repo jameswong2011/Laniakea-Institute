@@ -7,15 +7,17 @@ tags:
 
 # Pain, Pleasure, and Change
 
-**Pain, Pleasure, and Change** — pain and pleasure as the compressed interface of the entropic gradient — pain registering rising internal disorder, pleasure its lowering — together with the addendum that pleasure belongs to transition, not possession.
+**Pain, Pleasure, and Change** — pain and pleasure are the compressed dashboard of the entropic gradient: pain reads rising inner disorder, pleasure reads its lowering. And a crucial rider — pleasure belongs to transition, not to possession.
 
-Pain reports injury, incoherence, frustrated prediction or rising internal disorder; pleasure reports successful movement, integration, release or newly available order. By seeking one and avoiding the other, a consciousness reduces the whole problem of what to do to a single legible gradient on [[Entropy and Spiritual Entropy|entropy]]. Neither signal is infallible — a harmful habit rewards immediately, difficult healing hurts — so their deeper value appears across time and scale: whether an action enlarges a system's capacity for richer relation or consumes it for a short local peak.
+The true measure of value, entropy, is far too complex for a creature to compute in real time. So the body ships a simplified interface. Pain and pleasure are that interface — the compressed, actionable readout by which a mind knows, without doing the sums, which way its inner [[Entropy and Spiritual Entropy|entropy]] is moving. Pain flags injury, incoherence, frustrated prediction, rising disorder. Pleasure flags successful movement, integration, release, newly available order. It works like a car's fuel gauge: it hides the chemistry in the tank and shows you a single needle you can act on. Its very crudeness is what makes it fast and universal.
 
-Pleasure, moreover, belongs to change. Its strongest component lies in approach, expectation and the event of transition rather than in the possessed object — the reward-prediction findings of Schultz, Dayan and Montague describe exactly this, dopaminergic systems responding centrally to changes in expected reward rather than metering possessed goods. The destination becomes the new baseline, and the cycle runs anticipation, effort, threshold, transformation, integration, renewed openness.
+The needle is not infallible. A harmful habit can reward at once; difficult healing can hurt for a long time. So the deeper reading appears only across time and scale — whether an act enlarges a system's capacity for richer relation, or spends that capacity for one short local peak.
 
-This is why an endless supply of one reward does not create endless joy: it destroys contrast, flattens attention and forces the system toward stronger stimulation — terminating in **wireheading**, the repeated activation of a reward channel after the world that gave the reward meaning has been abandoned (its self-built form is [[The Pleasure-Domain Demiurge]]). None of this makes inflicted suffering sacred; it means a world without difficulty or loss would remove much of the structure through which value becomes present.
+Now the rider: pleasure belongs to change. Its strongest charge sits in the approach, the expectation, the moment of transition — not in the object once possessed. The brain's reward chemistry confirms it: the dopamine studies of Schultz, Dayan and Montague found these systems respond to *changes* in expected reward, not to goods merely held. The destination, once reached, becomes the new baseline, and the gauge falls quiet. So the cycle turns again: anticipation, effort, threshold, transformation, integration, renewed openness.
 
-The viable objective is therefore "maximal sustainable variation that also raises net system pleasure", audited by four measures: net [[Qualia|qualia]] across all affected centres, variation, [[Agency as the Measure|agency]] and regeneration. Every hierarchy must ask how pleasure is distributed between its levels, since apparent ascent at a higher tier can conceal exported pain in the components that make it possible — the question [[The Farmed Planet]] puts to institutions.
+This is why an endless supply of one reward never yields endless joy. It destroys contrast, flattens attention, and drives the system toward ever-stronger stimulation. The end point is wireheading — pressing a reward button long after the world that made the reward meaningful has been abandoned. Its self-built form is [[The Pleasure-Domain Demiurge|the pleasure-domain demiurge]], an engineered heaven that rots, from the inside, into a hell — because boredom and changelessness are among the deepest sources of pain there are. None of this makes inflicted suffering sacred. It means a world with no difficulty and no loss would strip out much of the structure through which value ever becomes present.
+
+The workable aim, then, is maximal sustainable variation that also raises net system pleasure — audited by four measures: net [[Qualia|qualia]] across all affected centres, variation, [[Agency as the Measure|agency]] and regeneration. Every hierarchy must ask how pleasure is shared between its levels. Apparent bliss at the top can hide exported pain in the parts that hold it up — the question [[The Farmed Planet]] puts to institutions.
 
 ## See also
 
@@ -35,3 +37,4 @@ The viable objective is therefore "maximal sustainable variation that also raise
 - [[Qualia (Idea)|Qualia]]
 - [[Stability and Novelty]]
 - [[Recursive Desire]]
+- [[Problem of Evil Reframed]]

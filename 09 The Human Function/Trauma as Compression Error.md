@@ -9,21 +9,21 @@ tags:
 
 **Trauma as Compression Error** — psychological trauma reframed as a compression fault: a narrow but urgent experience compressed into a general law that then discards too much of the present.
 
-Trauma is not simply the storage of a bad event but "a heavily weighted prediction that the old event remains the best guide to the present." A narrow but urgent sample is compressed into a general law — "care is unreliable," "conflict ends in abandonment" — a rule that once protected the organism by making response fast. Later it discards too much *Ab*, the unrecorded remainder of present reality that [[Measurement as Transformation|every act of recording loses]], and new people and safer conditions are forced through an old codec.
+Trauma is less a stored memory than a stuck prediction. The brain is always working to reduce surprise by modelling what comes next. Trauma is a heavily weighted forecast that an old event is still the best guide to the present. A memory has been promoted from record to forecast, and now acts silently as law rather than history. So a narrow but urgent experience gets compressed into a sweeping rule — "care is unreliable," "conflict ends in abandonment," "visibility brings danger." That rule once protected the organism by making the response fast.
 
-Contemporary predictive-processing accounts of trauma study exactly this — how adverse experience distorts expectations and the weighting of new evidence — a convergence, not a proof, without importing clinical claims. Trauma, on this reading, is a [[Compression and Decompression|compression]] problem before anything else: an over-general rule outliving the narrow sample that justified it.
+The trouble is over-generalisation. A law drawn from too small a sample throws away too much — the unrecorded remainder of the present that [[Measurement as Transformation|every act of recording loses]]. New people and safer conditions then get forced through an old codec — the fixed method a system uses to pack and unpack information — and made to read as the first danger. Think of a smoke alarm so sensitive that burnt toast trips the same full evacuation as a house fire. The device is not broken, only over-tuned. Trauma is the shadow side of [[Compression and Decompression|compression]] itself: the very move that lets a mind store a world cheaply can, over-applied, overwrite the world it was meant to model. Because the rule installs itself as prediction, it also narrows [[Free Will and Decision-Space|decision-space]] — fear makes whole ranges of response feel unthinkable. Predictive-processing accounts of trauma study exactly this: a convergence, not a proof, with no clinical claims imported.
 
-Healing does not delete the earlier page; it repeatedly brings the page into a different present until the former rule is indexed as history rather than silently acting as law. The five-step repair sequence:
+Healing does not delete the earlier page. It brings that page into a different present, again and again, until the old rule is filed as history rather than acting as law. The repair runs in five steps:
 
 1. **recognise the old prediction;**
-2. **distinguish memory from current input;**
-3. **remain present through manageable contradiction;**
-4. **receive a different outcome;**
+2. **tell memory apart from current input;**
+3. **stay present through manageable contradiction;**
+4. **receive a genuinely different outcome;**
 5. **recompress the wider evidence into a more flexible rule.**
 
-A distress signal is answered, a boundary respected, a conflict ended without exile, the body surviving a sensation it had treated as terminal.
+A distress signal is answered. A boundary is respected. A conflict ends without exile. The body survives a sensation it had treated as fatal.
 
-This is the developmental form of gnosis: "the prison is not escaped merely by learning that it is a prison." Insight alone does not free the nervous system; it must acquire an *inhabitable* alternative through repeated contradiction. Trauma-repair is thus the individual-scale case of the movement traced through [[The Developmental Matrix|the developmental matrix]] and, cosmologically, [[Gnosis and Its Timing|gnosis and its timing]] — knowledge that frees only when delivered into a bearable new world.
+This is the developmental form of gnosis — liberating knowledge. The prison is not escaped merely by learning that it is a prison. Insight alone does not free the nervous system; it must acquire an inhabitable alternative through repeated contradiction. Trauma-repair is therefore the individual-scale case of the movement traced through [[The Developmental Matrix|the developmental matrix]] and, at cosmic scale, [[Gnosis and Its Timing|gnosis and its timing]] — knowledge that liberates only when delivered into a bearable new world.
 
 ## See also
 
@@ -32,6 +32,7 @@ This is the developmental form of gnosis: "the prison is not escaped merely by l
 - [[Compression and Decompression]]
 - [[Gnosis and Its Timing]]
 - [[Sovereign Attention]]
+- [[Free Will and Decision-Space]]
 
 ## Related Ideas
 

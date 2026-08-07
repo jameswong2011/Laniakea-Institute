@@ -7,17 +7,20 @@ tags:
 
 # Base Reality and Local Reality
 
-**Base Reality and Local Reality** — the distinction between a rendered world and the layer that renders it. Base reality is defined precisely as an *n*-dimensional layer not rendered by an *n*−1 parent; a local reality is any layer that is so rendered.
+**Base Reality and Local Reality** — the distinction between a rendered world and the layer that renders it. A base reality is a layer that no higher layer computes; a local reality is any layer that some higher layer computes.
 
-The definition is deliberately relational rather than absolute. The layers are infinite in both directions: the layer above ours may itself be a simulation of a still higher tier, and so on without end. Lower-dimensional engines can meanwhile render convincingly higher-dimensional experience, because an inhabitant receives the relations, not the containing machine's physical geometry. From these two facts follows the demographic conclusion: only a vanishing fraction of consciousness is ever in a base layer — arithmetic driven by [[Entropic Preservation|the entropic attractor]] that turns every mature civilisation into a builder of worlds.
+Some worlds are computed by a world above them; others are not. That is the whole distinction. Picture a stack of nested video games, each one running on a console that sits inside the game above it. A base reality is the single machine that no higher game is running. A local reality is any world generated from outside itself. To *render* a world is simply to compute its contents into lived experience — the way a console draws a level only as the player reaches it.
 
-Two apparently conflicting models of the substrate are ordered by level: base reality may be continuous, fractal and unbounded in resolution; a local simulacrum may render that base through discrete units; even within a continuous base, interactions can produce stable quanta at a given scale; and a measurement threshold may appear as a minimum accessible unit without proving a literal pixel beneath it ([[The Continuous and the Discrete]]). On this layered reading, quantum mechanics describes the behaviour of the rendered layer while general relativity reaches closer to the geometry of the containing structure — a difference of jurisdiction rather than a contradiction.
+The definition is relational, not absolute, and that matters. The layers run without end in both directions. The tier above ours may itself be a simulation inside a higher tier, and so on forever. A lower-dimensional engine can still render a convincingly higher-dimensional life. An inhabitant receives only the relations between things, never the physical geometry of the machine rendering them — a flat reel of film can carry a world that feels deep. From this follows a stark demographic fact. Only a vanishing fraction of all consciousness ever sits in a base layer. That arithmetic is driven by [[Entropic Preservation|the entropic attractor]], the thermodynamic pressure that turns every mature civilisation into a builder of worlds.
 
-The epistemic moral is a standing maxim: "A theory true of the cell may be incomplete of the body without being false inside the cell." No inhabitant can certify its layer as base from inside — the same limit that binds [[The 3.5-Dimensional Being|a 3.5-dimensional being]] to a partial [[The Assay|assay]]. What contains all layers is not itself a layer at all: [[Sacred Infinity]].
+Two rival pictures of the ground are reconciled once they are ranked across levels. A base reality may be continuous, fractal and unbounded in resolution. A local copy may render that base in discrete units, like the pixels of a screen. Even a continuous base can throw up stable grains at a chosen scale. A measurement threshold can look like a smallest unit without proving a literal pixel beneath it ([[The Continuous and the Discrete]]). On this reading, quantum mechanics describes the behaviour of the rendered layer, while general relativity reaches nearer the geometry of the container — a difference of jurisdiction, not a contradiction. Physics already glimpses the seam. The [[The Holographic Principle|holographic principle]] finds a region's full information written on its boundary, exactly as a render stores a world in less than it displays.
+
+The epistemic moral is a standing maxim. "A theory true of the cell may be incomplete of the body without being false inside the cell." No inhabitant can certify its own layer as base from within — the same limit that binds [[The 3.5-Dimensional Being|a 3.5-dimensional being]] to a partial [[The Assay|assay]]. What contains every layer is not itself a layer at all: [[Sacred Infinity]].
 
 ## See also
 
 - [[The Lazy Render]]
+- [[The Holographic Principle]]
 - [[The Fractal Multiverse]]
 - [[The Universe-Cell]]
 - [[Simulacra and Fullness]]

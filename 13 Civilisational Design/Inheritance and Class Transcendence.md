@@ -7,15 +7,15 @@ tags:
 
 # Inheritance and Class Transcendence
 
-**Inheritance and Class Transcendence** — hereditary wealth read as a polarity: a memory technology by which the family acts as a temporally extended person, and the mechanism by which historical luck can harden into permanent command.
+**Inheritance and Class Transcendence** — hereditary wealth read as a polarity, a single axis with two opposed ends. At one end it is a memory technology: it lets a family act as one person stretched across many lifetimes. At the other it is the machinery by which sheer historical luck freezes into permanent command.
 
-On the constructive pole, hereditary wealth is a social technology for carrying family memory, security, capital and unfinished projects across generations, so that capable descendants begin where their predecessors ended rather than rebuilding every foundation. Cultures of ancestor continuity recognise the family as a temporally extended person — in the East Asian frame, one is, in effect, reborn into one's descendants, making the lineage itself the unit that persists.
+Inherited wealth is, at that constructive end, a social technology — a tool a society builds, like money or law — for carrying a family's memory, security, savings and unfinished projects across the generations. Capable children then begin where capable parents left off, instead of rebuilding every foundation from nothing. It works like a relay race: each runner starts where the last handed over the baton, not back at the line. Cultures of ancestor continuity treat the family as a temporally extended person — a single self that persists across lifetimes. In the East Asian frame, you are, in effect, reborn into your descendants; the lineage is the unit that lasts. It is a third channel of inheritance, running alongside [[Gene–Meme Twin Inheritance|genes and memes]].
 
-Much conventional success is experienced as **class transcendence**: one life becomes the bridge by which a family enters a wider field of security, education, status or [[Agency as the Measure|agency]]. This intergenerational project supplies purpose beyond private consumption — and when economic decline makes ascent implausible, the purpose collapses with it. A post-automation order must offer another credible path by which effort enlarges the agency of descendants and community, or [[Lived Abundance|abundance]] will coexist with aimlessness.
+Most ordinary success is felt as class transcendence — one life becoming the bridge by which a whole family climbs into wider security, education, status or [[Agency as the Measure|agency]]. This project across generations gives purpose beyond private spending. When economic decline makes such a climb implausible, the purpose collapses with it. A post-automation order must offer another believable path by which effort enlarges the agency of one's descendants, or [[Lived Abundance|abundance]] will sit beside aimlessness.
 
-The same mechanism can close mobility. A society that prohibits inheritance may leave only the largest institutions able to accumulate across generations; one that permits unlimited hereditary concentration lets private dynasties become institutions beyond public challenge — the dynastic road into [[Techno-Feudalism|techno-feudalism]] and the caste outcome examined in [[Hierarchy and Its Conditions|the conditions of hierarchy]]. The question is therefore reframed: not inheritance or no inheritance, but how many independent lineages can preserve agency, and whether every child retains access to the commons needed to begin a lineage.
+The very same mechanism can slam mobility shut. Ban inheritance outright, and often only the largest institutions can still accumulate across generations. Allow unlimited hereditary concentration, and private dynasties swell into institutions no public can challenge — the dynastic road into [[Techno-Feudalism|techno-feudalism]] and the caste outcome traced in [[Hierarchy and Its Conditions|the conditions of hierarchy]]. Even urging the wealthy to give everything away before death is not always pure virtue. Make donation the highest morality, and heirs who might have challenged entrenched power are left without the capital to do it. So the real question is not inheritance or no inheritance. It is how many independent lineages can keep their agency, and whether every child keeps access to the commons — the shared resources — needed to start one.
 
-Taxation exposes the underlying political relation. A state claiming a large share of labour or property makes citizenship resemble partial ownership, yet the state also creates the legal, monetary, infrastructural and defensive field in which much private value exists. The [[Dharma-Law|dharmic]] question is reciprocal: what share is claimed, what common capacity is returned, who can audit the exchange, and whether refusal has any meaningful political form.
+Taxation lays the underlying relation bare. A state that claims a large share of your labour or property makes citizenship look like part-ownership of you. Yet the state also builds the legal, monetary, physical and defensive field in which most private wealth exists in the first place. The [[Dharma-Law|dharmic]] question — the question of just collaboration — is reciprocal. What share is claimed? What shared capacity is returned? Who is allowed to audit the exchange? And does refusal have any real political form?
 
 ## See also
 
@@ -23,6 +23,7 @@ Taxation exposes the underlying political relation. A state claiming a large sha
 - [[Agency as the Measure]]
 - [[Techno-Feudalism]]
 - [[Finance as Future Claims]]
+- [[Lived Abundance]]
 - [[The Craftsmanship Economy]]
 
 ## Related Ideas

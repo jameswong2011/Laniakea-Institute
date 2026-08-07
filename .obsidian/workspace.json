@@ -11,10 +11,12 @@
             "id": "51aadcfdd1d65031",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,6 +192,43 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c156b1d7e603ea9b",
-  "lastOpenFiles": []
+  "active": "51aadcfdd1d65031",
+  "lastOpenFiles": [
+    "Ideas/Paid Free-Will Class.md",
+    "Ideas/Density Ladder.md",
+    "Ideas/Sustainable Variation.md",
+    "Ideas/Memetic Birthing (Idea).md",
+    "Ideas/Extended Childhood and Elder Memory.md",
+    "Ideas/Opposite-Branch Practice.md",
+    "Ideas/Ascent versus Server Farm.md",
+    "Ideas/Electric Buddha.md",
+    "Ideas/Finance as Future Claims (Idea).md",
+    "Ideas/Consciousness Priority.md",
+    "Ideas/Friendship as Memetic Collaboration (Idea).md",
+    "Ideas/Qualia (Idea).md",
+    "Ideas/Truth, Trust and Wrathful Repair.md",
+    "Ideas/Artificial Social Memory.md",
+    "Ideas/Memory More Real Than the Event.md",
+    "Ideas/Relational Machine Consciousness.md",
+    "Ideas/Paraconsistent Negation.md",
+    "Ideas/Compression and Decompression (Idea).md",
+    "Ideas/Pineal Nexus.md",
+    "Ideas/Science and Scientism (Idea).md",
+    "Ideas/Local Consciousness.md",
+    "Ideas/Symbolic Masculine and Feminine.md",
+    "Ideas/String Theory Cautionary Tale.md",
+    "Ideas/Pleasure Belongs to Change.md",
+    "Ideas/Pain of Absolute Free Will.md",
+    "Ideas/Democratic Project to Define the Human.md",
+    "Ideas",
+    "14 The Synthesis",
+    "13 Civilisational Design",
+    "12 The Discipline of Return",
+    "11 Machine Minds and the Fork",
+    "10 The Enclosure",
+    "09 The Human Function",
+    "08 The Crowded Cosmos",
+    "07 Soul, Time and Karma",
+    "06 The Architecture of Worlds"
+  ]
 }

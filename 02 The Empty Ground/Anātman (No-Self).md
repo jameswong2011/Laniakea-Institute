@@ -7,20 +7,21 @@ tags:
 
 # Anātman (No-Self)
 
-**Anātman (No-Self)** — the Buddhist doctrine that no persisting subject stands beneath the stream of experience. The self is a useful designation imposed on one dependent event, not an entity existing from its own side.
+**Anātman (No-Self)** — the teaching that no permanent, unchanging self sits behind your experience. *Anātman* means "no fixed self": what you call "I" is a convenient label placed on a flowing, dependent process, not a thing that exists on its own.
 
-The argument follows directly from [[Śūnyatā (Emptiness)|emptiness]]. A person depends on ancestry, body, language, food, institutions, relationships, choices and time; what endures is a continuing style of sensing, remembering, valuing, choosing and relating, not an owner of those acts. Continuity is real but substanceless — the whirlpool that persists while its water changes, developed in [[Process Ontology|process ontology]].
+Start with a simple observation. You cannot find the self by looking. Search your experience and you meet sights, sounds, thoughts, moods and memories — but never a separate owner having them. The idea follows directly from [[Śūnyatā (Emptiness)|emptiness]]. A person depends on ancestry, body, language, food, institutions, relationships, choices and the passage of time. Remove those supports and no core is left over. What endures is a continuing *style* of sensing, remembering, valuing and choosing — not an owner standing apart from those acts. Continuity is real but has no substance. Think of a whirlpool. It keeps its shape for hours while every water molecule passing through it is swapped out. The pattern persists; the stuff does not. This is developed as [[Process Ontology|process ontology]].
 
-The sharpest instrument here is Nāgārjuna's analysis of the goer and the going. The mover cannot be isolated from the moving: an unmoving mover is not a mover, while motion without something moving is equally incoherent. Were agent and act genuinely distinct, each would carry its own *svabhāva* (intrinsic nature); they carry none, so "goer" and "going" are designations laid over a single dependent arising ([[Dependent Origination|dependent origination]]). We are not people who act — action itself is the substantive aspect of existence.
+Nāgārjuna sharpens the point with the puzzle of the goer and the going. Try to separate the walker from the walking. A walker who is not walking is not yet a "goer"; walking with nobody walking is equally empty. The two cannot be prised apart. If actor and action were truly separate, each would need its own *svabhāva* — independent, self-contained existence. Neither has any. So "goer" and "going" are two labels laid over one single event ([[Dependent Origination|dependent origination]]). You are not a person who then acts. The acting is what you are.
 
-No-self then radically reframes interpersonal harm. When another person causes pain, the event is not an isolated self attacked by an absolutely separate self: it is the universe undergoing evolutionary suffering — *duḥkha* — across two of its own poles. Aggressor, recipient, history, wound, social conditions and response participate in one dependent event. This dissolves the extra suffering of metaphysical isolation ("Why has reality singled out this self?") without forbidding boundaries or accountability: if one hand burns another part of the body, the body moves the hand and treats the wound. Non-separation increases responsibility, because harm can no longer be exported to an ontologically foreign being — one strand of the universe's [[Distributed Moral Computation|distributed moral computation]].
+This reframes how we hold injury. When someone hurts you, it is not one wholly separate self attacking another wholly separate self. It is the universe suffering — *duḥkha*, the ache of a system still evolving — across two of its own poles. Aggressor, victim, history, wound and response belong to one dependent event. This removes a hidden second layer of pain: the loneliness of "why has reality singled me out?" It does not remove boundaries or accountability. If one hand burns another part of the body, the body still pulls the hand away and tends the wound. Responsibility in fact grows, because harm can no longer be dumped onto some fundamentally separate stranger. Each of us is one strand in the universe's [[Distributed Moral Computation|distributed moral computation]].
 
-Downstream, the doctrine shapes the account of continuity across lives — a travelling ledger of pattern rather than an immortal owner ([[The Soul Ledger]]) — and the reframing of liberation as release from compulsory identification rather than annihilation ([[Nirvāṇa Reframed]]).
+Downstream, no-self reshapes what travels between lives — a moving ledger of pattern, never an immortal owner ([[The Soul Ledger]]) — and recasts liberation as release from compulsory identification rather than annihilation ([[Nirvāṇa Reframed]]).
 
 ## See also
 
 - [[Śūnyatā (Emptiness)]]
 - [[Process Ontology]]
+- [[The Catuṣkoṭi]]
 - [[The Soul Ledger]]
 - [[Nirvāṇa Reframed]]
 - [[Extinction Meditation]]

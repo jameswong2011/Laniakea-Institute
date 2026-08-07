@@ -7,22 +7,22 @@ tags:
 
 # Hierarchy and Its Conditions
 
-**Hierarchy and Its Conditions** — rank as a recurring technology of coordination: legitimate while four conditions hold, and a caste engine the moment they fail.
+**Hierarchy and Its Conditions** — rank is a tool for getting people to act together. It is legitimate while four conditions hold. The moment they fail, it becomes a caste engine — a machine for turning temporary rank into permanent, inherited status.
 
-Coordination asymmetries are real. Differences in knowledge, skill, responsibility, time horizon and risk make some delegation necessary: a surgeon directs an operation, a teacher sequences a curriculum, a spacecraft cannot negotiate every emergency from first principles. The problem is not rank itself but the conversion of a temporary functional asymmetry into a permanent claim on the [[Agency as the Measure|agency]] of others.
+Some differences between people are real. Differences in knowledge, skill, responsibility, foresight and exposure to risk mean that some direction is genuinely necessary. A surgeon directs an operation. A teacher orders a curriculum step by step. A spacecraft cannot debate every emergency from scratch. So the problem is never rank as such. The problem is when a temporary, useful gap — this person knows more right now — is quietly turned into a permanent claim on the [[Agency as the Measure|agency]] of everyone below.
 
-Occult schools, corporations, priesthoods, militaries and bureaucracies often share a graded form: lower members receive partial information and perform work to rise, while higher members decide when hidden knowledge will be released. The structure protects dangerous knowledge and screens for commitment — the same logic as the [[Gnosis and Its Timing|timing of gnosis]] — but it also manufactures subservience, because truth becomes a reward for serving the institution that conceals it.
+Secret societies, corporations, priesthoods, militaries and bureaucracies often share one shape. Lower members are given partial information and must work to climb, while those above decide when hidden knowledge is released. This protects dangerous knowledge and tests commitment — the same logic as the [[Gnosis and Its Timing|timing of gnosis]], the rule that liberating knowledge given too early becomes just another trap. But the same shape also manufactures obedience, because truth is turned into a reward for serving the institution that hides it.
 
 A healthy hierarchy meets four conditions:
 
-1. rank corresponds to demonstrated function rather than inherited mystique;
-2. the knowledge required to evaluate leadership is not permanently hidden;
-3. lower members retain protected routes of dissent and exit;
-4. the structure can dissolve or redistribute authority when its task changes.
+1. rank tracks demonstrated function, not inherited mystique;
+2. the knowledge needed to judge the leaders is not permanently hidden;
+3. those lower down keep protected routes to dissent and to leave;
+4. the structure can dissolve or hand power around when its task changes.
 
-Without these, hierarchy becomes a caste engine, and the commitments binding its members take on the [[Promises and the Hierarchy of Freedom|shape of caste]].
+Without these, hierarchy hardens into a caste engine, and the promises binding its members take on the [[Promises and the Hierarchy of Freedom|shape of caste]].
 
-This sits within the individual–collective balance: a group must be cohesive enough to remember and porous enough to mutate. Tall-poppy systems that continually punish distinction buy short-term cohesion at the price of intellectual decay; radical individualism leaves common goods undefended. One tension stays deliberately open: much pre-industrial cultural complexity rested on surplus concentrated in elites while the creative range of serfs and slaves was constrained. Whether automation distributes surplus widely or recreates the patron–slave structure at greater scale — [[Techno-Feudalism|techno-feudalism]] — remains the live question.
+This is the individual-and-collective balance again. A group must be united enough to remember and open enough to change. "Tall-poppy" cultures — which cut down anyone who rises above the crowd — buy short-term unity at the price of slow intellectual decay. Pure individualism leaves shared goods undefended. One tension is left deliberately open. Much of pre-industrial culture's richness rested on surplus hoarded by elites while the creativity of serfs and slaves was starved. Whether automation now spreads that surplus widely, or rebuilds the master-and-servant structure at greater scale — [[Techno-Feudalism|techno-feudalism]] — is the live question.
 
 ## See also
 
