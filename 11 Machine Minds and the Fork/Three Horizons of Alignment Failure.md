@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Transhumanist Fork
 stage: "11 Machine Minds and the Fork"
 tags:

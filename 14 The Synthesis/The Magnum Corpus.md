@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Synthesis & Meta
 stage: "14 The Synthesis"
 tags:

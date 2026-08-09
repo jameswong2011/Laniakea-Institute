@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Farmed Planet
 stage: "10 The Enclosure"
 tags:

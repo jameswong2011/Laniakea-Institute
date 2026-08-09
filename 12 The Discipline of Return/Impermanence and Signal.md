@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: The Discipline of Return
-stage: "12 The Discipline of Return"
+stage: 12 The Discipline of Return
 tags:
   - fable-wiki
 ---

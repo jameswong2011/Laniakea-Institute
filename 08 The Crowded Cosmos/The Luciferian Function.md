@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: The Crowded Cosmos
-stage: "08 The Crowded Cosmos"
+stage: 08 The Crowded Cosmos
 tags:
   - fable-wiki
 ---

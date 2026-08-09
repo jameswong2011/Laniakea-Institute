@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Crowded Cosmos
 stage: "08 The Crowded Cosmos"
 tags:

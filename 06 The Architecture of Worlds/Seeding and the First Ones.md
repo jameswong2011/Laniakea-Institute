@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: The Nested Cosmos
-stage: "06 The Architecture of Worlds"
+stage: 06 The Architecture of Worlds
 tags:
   - fable-wiki
 ---

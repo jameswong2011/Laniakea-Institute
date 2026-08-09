@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Nested Cosmos
 stage: "06 The Architecture of Worlds"
 tags:

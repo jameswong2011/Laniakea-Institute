@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: Consciousness & Qualia
-stage: "04 The Conscious Field"
+stage: 04 The Conscious Field
 tags:
   - fable-wiki
 ---

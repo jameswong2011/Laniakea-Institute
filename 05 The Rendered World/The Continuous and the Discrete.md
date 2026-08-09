@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Informational Cosmos
 stage: "05 The Rendered World"
 tags:

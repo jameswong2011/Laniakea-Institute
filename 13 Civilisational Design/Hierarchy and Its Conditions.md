@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Civilisational Design
 stage: "13 Civilisational Design"
 tags:

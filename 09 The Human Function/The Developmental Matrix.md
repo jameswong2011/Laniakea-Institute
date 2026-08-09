@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Humanity & Memetics
 stage: "09 The Human Function"
 tags:

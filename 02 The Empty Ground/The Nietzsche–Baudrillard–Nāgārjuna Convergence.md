@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: The Empty Ground
-stage: "02 The Empty Ground"
+stage: 02 The Empty Ground
 tags:
   - fable-wiki
 ---

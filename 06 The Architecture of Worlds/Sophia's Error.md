@@ -1,6 +1,7 @@
 ---
+Content Tier: Terma
 category: Pleroma & World-Building Ethics
-stage: "06 The Architecture of Worlds"
+stage: 06 The Architecture of Worlds
 tags:
   - fable-wiki
 ---

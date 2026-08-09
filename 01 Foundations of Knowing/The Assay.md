@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Epistemology & Method
 stage: "01 Foundations of Knowing"
 tags:

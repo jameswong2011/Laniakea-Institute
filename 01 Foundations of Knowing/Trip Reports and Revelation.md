@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: Epistemology & Method
-stage: "01 Foundations of Knowing"
+stage: 01 Foundations of Knowing
 tags:
   - fable-wiki
 ---

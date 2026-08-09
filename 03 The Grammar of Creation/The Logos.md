@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Polarity, Logos & Dharma
 stage: "03 The Grammar of Creation"
 tags:

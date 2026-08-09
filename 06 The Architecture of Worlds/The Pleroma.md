@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Pleroma & World-Building Ethics
 stage: "06 The Architecture of Worlds"
 tags:

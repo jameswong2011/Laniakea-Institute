@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: The Empty Ground
 stage: "02 The Empty Ground"
 tags:

@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Consciousness & Qualia
 stage: "04 The Conscious Field"
 tags:

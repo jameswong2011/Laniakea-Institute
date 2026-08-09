@@ -1,4 +1,5 @@
 ---
+Content Tier: Sutra
 category: Time, Soul & Karma
 stage: "07 Soul, Time and Karma"
 tags:

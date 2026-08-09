@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: The Informational Cosmos
-stage: "05 The Rendered World"
+stage: 05 The Rendered World
 tags:
   - fable-wiki
 ---

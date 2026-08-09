@@ -1,6 +1,7 @@
 ---
+Content Tier: Tantra
 category: Time, Soul & Karma
-stage: "07 Soul, Time and Karma"
+stage: 07 Soul, Time and Karma
 tags:
   - fable-wiki
 ---
