@@ -11,4 +11,4 @@ tags:
 
 ## Overview
 
-There is a hard ceiling on how much information a finite region of space with finite energy can contain, and it is set by the area of the region's boundary rather than its volume. Most sharply, the information capacity of a black hole is proportional to the area of its event horizon, not the space inside it. The bound is the seed of the holographic principle: it says the full description of any volume can be stored on its surface. Reality budgets information like storage, not like empty room.
+A finite region of space with finite energy has a hard ceiling on the information it can contain, set by the area of the region's boundary. Most sharply, the information capacity of a black hole is proportional to the area of its event horizon, however much space lies inside. The bound is the seed of the holographic principle: it says the full description of any volume can be stored on its surface. Reality budgets information like storage, not like empty room.

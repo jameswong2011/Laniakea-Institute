@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Dialectical practice represents opposing positions in terms their inhabitants recognise, identifies the experience or value each protects, extends their rules to their conceptual termini, and preserves what their failures reveal. Synthesis is not a bland midpoint; it changes the axis so truths that appeared incompatible become functions in a wider arrangement. The proposed synthesis must then survive lived consequence, not only verbal elegance.
+Dialectical practice represents opposing positions in terms their inhabitants recognise, identifies the experience or value each protects, extends their rules to their conceptual termini, and preserves what their failures reveal. Synthesis is not a bland midpoint: it changes the axis so truths that appeared incompatible become functions in a wider arrangement, and the proposed synthesis must then survive lived consequence as well as verbal elegance.
 

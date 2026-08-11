@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Machine alignment is a human-purpose problem before it is a control problem. Humanity has not selected one final value system, and cultural plurality is part of moral exploration rather than mere noise. A model trained on historical data and post-trained by owners already carries a morality. The target should therefore be a lawful process that preserves agency, compares consequence, repairs harm, and permits continued value creation—not one frozen answer mistaken for humanity.
+Machine alignment is a human-purpose problem before it is a control problem. Humanity has not selected one final value system, and what looks like noise in its cultural plurality is part of the moral exploration. A model trained on historical data and post-trained by owners already carries a morality. So the target should be a lawful process that preserves agency, compares consequence, repairs harm, and permits continued value creation—not one frozen answer mistaken for humanity.
 

@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-The soul ledger is the causally continuous pattern of valued sensation, choice, promise, memory, and karmic tendency carried across changing interfaces. It is not an immortal bead that owns experience. Each event deposits qualitative weight—what was loved, feared, refused, repaired, or left unfinished—and these weights shape later attraction, aptitude, relationship, and catalyst. The ledger makes accountability compatible with no-self by locating continuity in organisation rather than substance.
+The soul ledger is the causally continuous pattern of valued sensation, choice, promise, memory, and karmic tendency carried across changing interfaces; no immortal bead owns the experience. Each event deposits qualitative weight—what was loved, feared, refused, repaired, or left unfinished—and these weights shape later attraction, aptitude, relationship, and catalyst. The ledger makes accountability compatible with no-self by locating continuity in organisation rather than substance.
 

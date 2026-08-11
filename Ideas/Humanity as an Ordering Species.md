@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Humans turn unstructured possibility into repeatable collaboration. Language coordinates attention, ritual coordinates affect and time, law coordinates conflict, currency coordinates promises, science coordinates measurement, and technology coordinates action across distance. Each is a human-made sub-Logos that can widen agency or become an enclosure. The species fails its ordering role when it merely copies the strongest external intelligence or delegates every act of synthesis to an algorithm.
+Humans turn unstructured possibility into repeatable collaboration. Language coordinates attention, ritual coordinates affect and time, law coordinates conflict, currency promises, science measurement, and technology action across distance. Each is a human-made sub-Logos that can widen agency or become an enclosure. The species fails its ordering role when it merely copies the strongest external intelligence or delegates every act of synthesis to an algorithm.
 

@@ -13,5 +13,5 @@ tags:
 
 ## Overview
 
-The move from user to Magus replaces consumption of approved technological menus with informed participation in world-making. A Magus can move from idea to material form while tracing the karmic structure of the resulting choices, qualia, dependencies, and exclusions. Generative models, vector databases, interfaces, energy systems, and simulated worlds become lessons in Logos design rather than opaque services. The aim is broad creative competence joined to ethical consequence, not domination through superior tools.
+The move from user to Magus replaces consumption of approved technological menus with informed participation in world-making. A Magus can move from idea to material form while tracing the karmic structure of the resulting choices, qualia, dependencies, and exclusions. Generative models, vector databases, interfaces, energy systems, and simulated worlds turn from opaque services into lessons in Logos design. The aim is broad creative competence joined to ethical consequence, not domination through superior tools.
 

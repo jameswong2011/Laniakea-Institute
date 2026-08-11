@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Collectives share detection, memory, labour, defence, and common goods; individuals and small groups introduce variation, dissent, and new forms. The optimum shifts with conditions: danger may require discipline, while stable abundance can support more experimentation. Radical individualism hides inherited support and abandons common capacity; rigid collectivism punishes distinction and decays intellectually. A healthy society remains cohesive enough to remember and porous enough to mutate.
+Collectives share detection, memory, labour, defence, and common goods, and individuals and small groups introduce variation, dissent, and new forms. The optimum shifts with conditions: danger may require discipline, while stable abundance can support more experimentation. Radical individualism hides inherited support and abandons common capacity. Rigid collectivism punishes distinction and decays intellectually. A healthy society remains cohesive enough to remember and porous enough to mutate.
 

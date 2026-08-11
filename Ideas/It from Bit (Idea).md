@@ -13,4 +13,4 @@ tags:
 
 ## Overview
 
-Every physical thing derives its existence from answers to yes-or-no questions — from acts of observation that draw a definite outcome out of an indefinite field. The universe is participatory: not a pre-existing furniture of objects awaiting discovery, but a structure brought to determinacy by the questions put to it. Within a consciousness-first cosmos the bit is not the ultimate substance but the record — the reading taken when awareness measures the real. It from bit is kept, but re-ordered beneath consciousness and compression.
+Every physical thing derives its existence from answers to yes-or-no questions — from acts of observation that draw a definite outcome out of an indefinite field. The universe is participatory: the questions put to it bring its structure to determinacy, and no pre-existing furniture of objects awaits discovery. Within a consciousness-first cosmos the bit is not the ultimate substance but the record — the reading taken when awareness measures the real. It from bit is kept, but re-ordered beneath consciousness and compression.

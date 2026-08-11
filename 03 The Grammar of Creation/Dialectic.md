@@ -1,5 +1,5 @@
 ---
-Content Tier: Sutra
+Content Tier: Tantra
 category: Polarity, Logos & Dharma
 stage: "03 The Grammar of Creation"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 **Dialectic** — polarity made conscious: the deliberate operation in which two partial views are set against each other, forced to reveal each other's limits, and made to yield a third position that changes the frame instead of splitting the difference.
 
-Dialectic is what happens when [[Polarity as Compression|polarity]] (a paired opposition stored as one relational structure) stops being merely suffered and starts being used on purpose. Two partial positions collide. Each exposes what the other cannot see. The collision yields a new arrangement. That result need not be a bland midpoint. A genuine synthesis keeps whatever was true in each side while changing the frame that made them look incompatible. A compromise splits the difference and can inherit both errors; a synthesis shifts the axis instead. Take a lift and a staircase: the quarrel over "which is better" dissolves the moment you see a tall building needs both, for different loads. Hegelian movement, tantric union, the circulation of yin and yang, formal debate, [[Humour as Esoteric Technology|humour]], and biological symbiosis are versions of the same operation.
+Dialectic is what happens when [[Polarity as Compression|polarity]] (a paired opposition stored as one relational structure) stops being merely suffered and starts being used on purpose. Two partial positions collide, each exposes what the other cannot see, and the collision yields a new arrangement — which need not be a bland midpoint. A genuine synthesis keeps whatever was true in each side while changing the frame that made them look incompatible; a compromise splits the difference and can inherit both errors, where a synthesis shifts the axis. With a lift and a staircase, the quarrel over "which is better" dissolves the moment you see a tall building needs both, for different loads. Hegelian movement, tantric union, the circulation of yin and yang, formal debate, [[Humour as Esoteric Technology|humour]], and biological symbiosis are versions of the same operation.
 
 The operation breathes in two movements, treated fully under [[Svātantrika and Prāsaṅgika|Svātantrika and Prāsaṅgika]]. A source movement builds positions up; a sink movement dissolves them back down — construction, testing, consequence, dissection, emptiness, reconstruction. Build without dissolving and the world fills with unexamined systems. Dissolve without building and intelligence curdles into permanent negation.
 

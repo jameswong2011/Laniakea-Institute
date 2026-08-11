@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-The Anthropological Timeline is a public map of how ideas and value systems produced the present. It would trace genealogies, moral frameworks, embodied consequences, translation points, suppressed branches, and future forks across ancient metaphysics, religion, Enlightenment, capitalism, socialism, nationalism, colonial encounter, industry, psychology, media, and computation. Competing timelines would expose causal disagreements rather than installing one official history. Competing versions should remain visible so the map cannot silently become a victor’s canon.
+The Anthropological Timeline is a public map of how ideas and value systems produced the present. It would trace genealogies, moral frameworks, embodied consequences, translation points, suppressed branches, and future forks across ancient metaphysics, religion, Enlightenment, capitalism, socialism, nationalism, colonial encounter, industry, psychology, media, and computation. Competing timelines would expose causal disagreements rather than installing one official history, and the competing versions should remain visible so the map cannot silently become a victor’s canon.
 

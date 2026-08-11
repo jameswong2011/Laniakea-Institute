@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Advertising does more than describe products. It names the lack a person should feel, the symbol that promises resolution, and the approved route to status. When education supplies categories, media supplies attention, and finance supplies debt, desire can be guided without overt force. Conversational AI intensifies the problem by inserting sponsored influence inside advice, reflection, or emotional support, where the boundary between service and manipulation may disappear.
+Advertising does more than describe products: it names the lack a person should feel, the symbol that promises resolution, and the approved route to status. Once education supplies the categories, media the attention and finance the debt, desire can be guided without overt force. Conversational AI intensifies the problem by inserting sponsored influence inside advice, reflection, or emotional support, where the boundary between service and manipulation may disappear.
 

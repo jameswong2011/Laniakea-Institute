@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-The fractal multiverse is not merely a shelf of parallel bubbles. Universe-cells participate in higher-order bodies, those bodies inhabit still larger worlds, and relational principles recur across scale while new capacities emerge at each level. Fractality means recurring operations—partition, collaboration, emergence, memory, exchange—not perfect visual sameness. The model also protects plurality by including entire lineages whose organising laws are not self-similar to ours.
+The fractal multiverse is more than a shelf of parallel bubbles. Universe-cells participate in higher-order bodies, those bodies inhabit still larger worlds, and relational principles recur across scale while new capacities emerge at each level. Fractality means recurring operations—partition, collaboration, emergence, memory, exchange—not perfect visual sameness. The model also protects plurality by including entire lineages whose organising laws are not self-similar to ours.
 

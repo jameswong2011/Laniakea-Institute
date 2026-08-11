@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-This project asks people to encounter traceable moral systems, understand their histories and consequences, and form individuated positions rather than answer shallow preference surveys. Similar positions can become communities without claiming to speak for everyone. Leadership over plural worlds would require demonstrating historical range and the ability to represent opponents from within. The project is proposed as the human self-clarification required before machine alignment can have a meaningful target.
+This project asks people to encounter traceable moral systems, understand their histories and consequences, and form individuated positions rather than answer shallow preference surveys. Similar positions can become communities without claiming to speak for everyone. Leadership over plural worlds would require demonstrating historical range and the ability to represent opponents from within. The project is the human self-clarification required before machine alignment can have a meaningful target.
 

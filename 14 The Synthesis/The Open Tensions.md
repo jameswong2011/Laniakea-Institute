@@ -1,25 +1,25 @@
 ---
 Content Tier: Sutra
 category: Synthesis & Meta
-stage: "14 The Synthesis"
+stage: 14 The Synthesis
 tags:
   - fable-wiki
 ---
 
 # The Open Tensions
 
-**The Open Tensions** — the fourteen deep questions the system deliberately refuses to close, kept open on the principle that a living architecture should display its unsolved problems rather than paper over them.
+**The Open Tensions** — the fourteen deep questions the system deliberately refuses to close, kept open on the principle that a living architecture should display its unsolved problems and never paper them over.
 
-Every large system eventually meets questions it cannot settle. Most bury them in vague talk of unity. This one lists them instead. Think of these as design trade-offs with no final answer — like the choice between speed and safety in a car, where more of one always costs some of the other. You do not solve such a choice. You hold it, and keep adjusting. Each tension below is a *polarity*: a pair of opposites that need each other, so that naming a permanent winner would kill the pair.
+Every large system eventually meets questions it cannot settle, and most bury them in vague talk of unity. This one lists them. They are design trade-offs with no final answer, like the choice between speed and safety in a car, where more of one always costs some of the other. You hold such a choice and keep adjusting. Each tension below is a *polarity*, a pair of opposites that need each other, so that naming a permanent winner would kill the pair.
 
-Where another system would close with a verdict, this one closes with a register of what it cannot yet decide. That is the practice of the last of [[The Twelve Axioms|its own axioms]], and it treats openness itself as a positive feature of [[Sacred Infinity]]. The fourteen, in brief:
+Another system would close with a verdict. This one closes with a register of what it cannot yet decide. That is the practice of the last of [[The Twelve Axioms|its own axioms]], and it treats openness itself as a positive feature of [[Sacred Infinity]]. The fourteen, in brief:
 
 1. **Information first, or information as measurement?** — Does [[Information as Record|information]] exist on its own at higher levels, or does every record already presuppose a relation, a registration and a reader?
 2. **Continuous base, or discrete render?** — A digital-style world running inside a smooth, [[The Continuous and the Discrete|continuous]] base explains much. But whether that continuity is truly real, merely potential, or just an artefact of a mind's limited sample stays open.
-3. **Consciousness first, or consciousness produced?** — How does a universal capacity for awareness become one particular viewpoint — without deriving [[Consciousness as Primary|consciousness]] from dead matter, and without making every fragment already a full subject?
+3. **Consciousness first, or consciousness produced?** — How does a universal capacity for awareness become one particular viewpoint, without deriving [[Consciousness as Primary|consciousness]] from dead matter, and without making every fragment already a full subject?
 4. **The present moment, or all branches at once?** — Present-centred experience, a [[The Entropic Branching Engine|branching cosmos]] where every choice spawns a world, and backward-reaching causation may simply describe different scales. No final geometry is claimed.
 5. **No-self, or soul?** — The [[The Soul Ledger|soul ledger]] gives continuity without a fixed substance. But where its edges lie, and how souls split or merge, awaits a fuller map.
-6. **Contextual morality, or real anti-reality?** — Most moral conflict is translation between different moral law-zones ([[Karma as Contextual Law|jurisdictions]]). The hard task is finding the true edge of [[Yaldabaoth and Anti-Reality|anti-reality]] — the genuinely dissolving — without each side branding its enemy with the label.
+6. **Contextual morality, or real anti-reality?** — Most moral conflict is translation between different moral law-zones ([[Karma as Contextual Law|jurisdictions]]). The hard task is finding the true edge of [[Yaldabaoth and Anti-Reality|anti-reality]] (the genuinely dissolving) without each side branding its enemy with the label.
 7. **If every branch happens, why choose?** — Perhaps attention changes which branches gain weight, or how many there are, or how reachable, or how morally heavy. Which of these, we cannot yet say ([[Free Will and Decision-Space]]).
 8. **Maximum variety, or maximum pleasure?** — No exchange rate is offered between a higher good and the lower-level suffering it may rest on. Only one rule holds firm: do not externalise unlimited [[Pain, Pleasure, and Change|pain]].
 9. **Novelty, or contemplative stillness?** — Creation needs change; peace needs the power to stay. Their living alternation is clearer than any final victory of one over the other ([[Nirvāṇa Reframed]]).

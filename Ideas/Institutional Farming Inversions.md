@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-An institutional farming inversion occurs when a legitimate function turns toward extraction. Education can replace curiosity with credentialed obedience; religion can replace inquiry with loyalty; finance can turn shared risk into opaque rent; media can turn public dialogue into behavioural prediction; digital infrastructure can turn coordination into surveillance. The concept judges the emergent relation rather than declaring every participant malicious. Reform asks whether incentives can be separated from the harm they reproduce.
+An institutional farming inversion occurs when a legitimate function turns toward extraction. Education can replace curiosity with credentialed obedience and religion can replace inquiry with loyalty; finance can turn shared risk into opaque rent, media public dialogue into behavioural prediction, and digital infrastructure coordination into surveillance. The concept judges the emergent relation rather than declaring every participant malicious. Reform asks whether incentives can be separated from the harm they reproduce.
 

@@ -1,5 +1,5 @@
 ---
-Content Tier: Sutra
+Content Tier: Tantra
 category: The Discipline of Return
 stage: "12 The Discipline of Return"
 tags:
@@ -25,7 +25,7 @@ A metaphysics is worth nothing until it changes what you do on an ordinary day. 
 
 Enlightenment here is not escape from the cycle. It is seeing more of its grammar while the cycle runs. The awakened act reads more of [[The Seed Phrase|the seed phrase]] (the compact intention a world unfolds from) in the present moment, and so wastes less suffering on the illusion of being separate.
 
-One final test guards the whole system against its own grandeur. Practice is measured not by the splendour of its cosmology but by plain results: attention freer, truth more bearable, promises cleaner, humour less cruel, power more accountable, and difference more able to collaborate.
+One final test guards the whole system against its own grandeur: the splendour of the cosmology measures nothing, and practice is measured by plain results — attention freer, truth more bearable, promises cleaner, humour less cruel, power more accountable, and difference more able to collaborate.
 
 ## See also
 

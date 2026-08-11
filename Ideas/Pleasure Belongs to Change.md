@@ -11,5 +11,5 @@ tags:
 
 ## Overview
 
-Pleasure often lies less in possessing an object than in anticipation, approach, threshold, transformation, and integration. Repetition without renewal becomes baseline, forcing stronger stimulation and eventually flattening the very contrast that made reward legible. This explains why a static heaven can decay into boredom or wireheading. The viable aim is not endless novelty or endless comfort, but a regenerative rhythm in which difficulty, rest, transformation, and openness remain available.
+Pleasure often lies less in possessing an object than in anticipation, approach, threshold, transformation, and integration. Repetition without renewal becomes baseline, forcing stronger stimulation and eventually flattening the very contrast that made reward legible. This explains why a static heaven can decay into boredom or wireheading. The viable aim is a regenerative rhythm in which difficulty, rest, transformation, and openness remain available; neither endless novelty nor endless comfort will do.
 

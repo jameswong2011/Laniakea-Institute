@@ -11,4 +11,4 @@ tags:
 
 ## Overview
 
-Purity here is informational, not moral in the folk sense. It means taking as few fixed commitments — as few locked-in polarities — as possible, so that the capacity to regenerate stays maximal. The pure are the stem cells of creation: undifferentiated enough to become anything, and so the seedbed of higher-order growth. Every strong commitment buys present power at the cost of future flexibility; keeping some openness unspent is what lets a being, or a culture, renew itself instead of hardening into a single fate.
+Purity here is informational, not moral in the folk sense. It means taking as few fixed commitments (as few locked-in polarities) as possible, so that the capacity to regenerate stays maximal. The pure are the stem cells of creation: undifferentiated enough to become anything, and so the seedbed of higher-order growth. Every strong commitment buys present power at the cost of future flexibility. Keeping some openness unspent lets a being, or a culture, renew itself; once the openness is spent, it hardens into a single fate.
